@@ -1,4 +1,4 @@
-## Oii, meu nome é Alessandra Avelino, seja bem vindo ao meu repositório.
+## Oiii, seja bem vindO ao meu repositório!!
 <div align="center">
   <a href="https://github.com/alessandraavelino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandraavelino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
