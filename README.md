@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Developer<br>📚 I’m currently learning and search a job<br>💻 Interested in web programming<br>⚡ In constant development
+🔭 I’m currently working on Software Developer<br>📚 I’m currently learning and work in Show Technology<br>💻 Interested in web programming<br>⚡ In constant development
 
 
 ## 🌐 Socials:
