@@ -47,7 +47,7 @@ const alessandra = {
 ![ExpressJS](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=ffffff)
 
 ### 🗄️ Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=15a30d)
+![MYSQL](https://img.shields.io/badge/my%20sql-20232A?style=for-the-badge&logo=my%20sql&logoColor=FF0000)
 
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
