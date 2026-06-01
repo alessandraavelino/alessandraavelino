@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=200&section=header&text=André%20Luiz%20Junqueira%20Poles&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20Data%20Science&descAlignY=65&descColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=200&section=header&text=Alessandra%20Avelino&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full Stack%20Developer&descAlignY=65&descColor=fff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2C2C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%40+AGX+Software;TypeScript+%7C+Node.js+%7C+MongoDB;Graduado+em+ADS+pela+FATEC+Sorocaba;Pós+em+Ciência+de+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AndreLuizJPoles&color=FF2C2C&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=alessandraavelino&color=FF2C2C&style=for-the-badge&label=VISITAS)
 
 </div>
 
