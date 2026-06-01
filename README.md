@@ -1,24 +1,111 @@
-# 💫 About Me:
-🔭 I’m currently working on Software Developer<br>📚 I’m currently learning and work in Show Technology<br>💻 Interested in web programming<br>⚡ In constant development
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=200&section=header&text=André%20Luiz%20Junqueira%20Poles&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20Data%20Science&descAlignY=65&descColor=fff" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aleeh_aleeh#3856) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__alessandraavelino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alessandra-avelino-1a1740205/) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2C2C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+%40+AGX+Software;TypeScript+%7C+Node.js+%7C+MongoDB;Graduado+em+ADS+pela+FATEC+Sorocaba;Pós+em+Ciência+de+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat-square&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alessandraavelino&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alessandraavelino&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraavelino&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=AndreLuizJPoles&color=FF2C2C&style=for-the-badge&label=VISITAS)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alessandraavelino&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alessandraavelino&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 Sobre mim
+
+```typescript
+const andre = {
+  cargo:    "Desenvolvedora Jr @ Show Tecnologia",
+  cidade:   "Belém, PB 📍",
+  formação: "Sistemas para Internet — IFPB",
+  pós:      "Engenharia de Software",
+  foco:     ["APIs REST", "Arquitetura de Software", "Desenvolvimento Full Stack"],
+  hobbies:  ["Video Games", "Código limpo", "Aprender coisas novas", "Ler 📖"],
+};
+```
+
+---
+
+## 🚀 Experiência
+
+**Show Tecnologia**
+- 🏷️ **Desenvolvedor Jr ** *(atual)*
+  
+**Landix Sistemas**
+- 🔰 Estágio em Desenvolvimento Full Stack *(início da jornada)*
+
+---
+
+## 🛠️ Tecnologias
+
+### ⌨️ Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=009ddd)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=ffff00)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=386dbd)
+
+### ⚙️ Back-end & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=BBCB64)
+![ExpressJS](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=ffffff)
+
+### 🗄️ Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=15a30d)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![AWS](https://img.shields.io/badge/aws-20232A?style=for-the-badge&logo=aws&logoColor=007ACC)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alessandraavelino&theme=radical&hide_border=true&ring=FF2C2C&fire=FF2C2C&currStreakLabel=FF2C2C)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alessandraavelino&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alessandraavelino&theme=moonlight)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandraavelino&theme=moonlight)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alessandraavelino/alessandraavelino/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alessandraavelino/alessandraavelino/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alessandraavelino/alessandraavelino/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📬 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandraavelinodeveloper)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alessandraavelino/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alessandraavelino23@gmail.com)
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=100&section=footer" />
+
+</div>
