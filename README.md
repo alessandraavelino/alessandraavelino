@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=200&section=header&text=Alessandra%20Avelino&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desenvolvedora%20Full%20Stack%20%7C%20AWS%207C%20JS&descAlignY=65&descColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2C2C&height=200&section=header&text=Alessandra%20Avelino&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Desenvolvedora%20Full%20Stack%20%7C%20AWS%20%7C%20JS&descAlignY=65&descColor=fff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2C2C&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack+%40+AGX+Software;TypeScript+%7C+Node.js+%7C+MongoDB;Graduado+em+ADS+pela+FATEC+Sorocaba;Pós+em+Ciência+de+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
