@@ -19,7 +19,7 @@ const alessandra = {
   formação: "Sistemas para Internet — IFPB",
   pós:      "Engenharia de Software",
   foco:     ["APIs REST", "Arquitetura de Software", "Desenvolvimento Full Stack"],
-  hobbies:  ["Video Games", "Código limpo", "Aprender coisas novas", "Ler 📖"],
+  hobbies:  ["Criar Projetos", "Código limpo", "Aprender coisas novas", "Ler 📖"],
 };
 ```
 
@@ -28,7 +28,7 @@ const alessandra = {
 ## 🚀 Experiência
 
 **Show Tecnologia**
-- 🏷️ **Desenvolvedor Jr ** *(atual)*
+- 🏷️ Desenvolvedor Jr *(atual)*
   
 **Landix Sistemas**
 - 🔰 Estágio em Desenvolvimento Full Stack *(início da jornada)*
